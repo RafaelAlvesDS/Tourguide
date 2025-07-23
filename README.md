@@ -81,10 +81,6 @@ app/src/main/java/com/android/rafael/tourguide/
    - Conecte um dispositivo Android ou inicie um emulador
    - Clique no botão "Run" ou pressione Shift + F10
 
-## 📸 Screenshots
-
-*Adicione aqui screenshots do seu aplicativo mostrando as diferentes telas e funcionalidades*
-
 ## 🎓 Contexto Educacional
 
 Este projeto foi desenvolvido como parte do curso **Android Basics** da Udacity. Os principais conceitos aprendidos incluem:
